@@ -3,6 +3,8 @@
 A pixel-perfect, Intercom-inspired AI Copilot admin panel built with React.  
 Features a real-time AI assistant using OpenAI, conversation inbox, chat window, and a modern, responsive UI.
 
+[Live Demo](#) https://itz-zerotwo.github.io/Demo-Aicopilot/
+
 ---
 
 ## ✨ Features
@@ -91,6 +93,11 @@ This project is for demo and educational purposes.
 
 ---
 
+## ⏰ Time Spent
+
+- **Total time invested:** 12 hours
+
 ## ⭐️ Show your support
 
 Give a ⭐️ if you like this project or want to contribute!
+
