@@ -97,6 +97,8 @@ This project is for demo and educational purposes.
 
 - **Total time invested:** 12 hours
 
+---
+
 ## ⭐️ Show your support
 
 Give a ⭐️ if you like this project or want to contribute!
